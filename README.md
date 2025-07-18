@@ -1,11 +1,8 @@
 # A simple keylogger for Windows, Linux and Mac
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
+
 
 [Website](https://simple-keylogger.github.io) - [Keylogger wiki](https://github.com/GiacomoLaw/Keylogger/wiki)
 
-Help support the project:
-
-<a href="https://www.buymeacoffee.com/giacomo" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 Welcome to the simple keylogger repo! A keylogger is a program that records your keystrokes, and this program saves them in a log file on your local computer.
 
@@ -84,6 +81,4 @@ Feel free to contribute to fix any problems, or to submit an issue!
 
 Please note, this repo is for educational purposes only. No contributors, major or minor, are to fault for any actions done by this program.
 
-Don't really understand licenses or tl;dr? Check out the [MIT license summary](https://tldrlegal.com/license/mit-license).
 
-Distributed under the MIT license. See [LICENSE](https://github.com/GiacomoLaw/Keylogger/blob/master/LICENSE.txt) for more information.
